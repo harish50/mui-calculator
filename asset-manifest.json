@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mui-calculator/static/css/main.34de6062.chunk.css",
+    "main.js": "/mui-calculator/static/js/main.f5e127be.chunk.js",
+    "main.js.map": "/mui-calculator/static/js/main.f5e127be.chunk.js.map",
+    "runtime-main.js": "/mui-calculator/static/js/runtime-main.d943933c.js",
+    "runtime-main.js.map": "/mui-calculator/static/js/runtime-main.d943933c.js.map",
+    "static/js/2.b6ed165e.chunk.js": "/mui-calculator/static/js/2.b6ed165e.chunk.js",
+    "static/js/2.b6ed165e.chunk.js.map": "/mui-calculator/static/js/2.b6ed165e.chunk.js.map",
+    "index.html": "/mui-calculator/index.html",
+    "precache-manifest.b3c589b4b4de5ebb0bb854da95f082d2.js": "/mui-calculator/precache-manifest.b3c589b4b4de5ebb0bb854da95f082d2.js",
+    "service-worker.js": "/mui-calculator/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/mui-calculator/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d943933c.js",
+    "static/js/2.b6ed165e.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.f5e127be.chunk.js"
+  ]
+}
